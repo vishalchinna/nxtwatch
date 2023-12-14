@@ -1,12 +1,21 @@
 .sidebar-container {
   width: 25%;
-}
-header {
-  color: red;
+  padding-left: 20px;
 }
 
 .footer {
-  color: red;
   position: fixed;
   bottom: 0;
+}
+.media-icons {
+  height: 25px;
+  margin-right: 10px;
+}
+.sidebar-text {
+  width: 50%;
+  font-size: 14px;
+}
+.contact {
+  font-size: 14px;
+  font-weight: bold;
 }
